@@ -10,3 +10,4 @@ Flexibilität beim Aufstellungsort des Stromspeichers.
 
 Der Nachteil der zusätzlichen Stromwandlungsverluste sollte bekannt sein. 
 
+![digital_poti_X9C103S-pin](https://github.com/duese1981/AC-DC-Laderegelung-Arduino-Shelly-3EM/assets/142802395/863944bd-d091-4ffd-a50c-a6e99d91d16f)
