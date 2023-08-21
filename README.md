@@ -1,7 +1,8 @@
 # AC-DC-Laderegelung-Arduino-Shelly-3EM
 Laderegelung um überschüssigen PV-Strom (AC-seitig) über ein Ladegerät in einen Akku zu speichern.
 
-Wemos D1 Mini ließt die Leistungsdaten des Smartmeters Shelly 3EM aus und steuert damit über ein digitales Poti ein Ladegerät.
+Wemos D1 Mini ließt die Leistungsdaten des Smartmeters Shelly 3EM aus und steuert damit den Widerstand eines digitalen Potis.
+Das analoge Poti des Ladegeräts wird durch das digitale Poti ersetzt, womit die Leistung des Ladegeräts eingestellt wird.
 
 Anwendung:
 Wenn DC Laden nicht möglich ist.
