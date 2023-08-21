@@ -23,4 +23,4 @@ Komponenten:
 
 ![IMG_0637](https://github.com/duese1981/AC-DC-Laderegelung-Arduino-Shelly-3EM/assets/142802395/8460f603-dcc0-472c-9378-143bebd9d43a)
 
-![IMG_0636](https://github.com/duese1981/AC-DC-Laderegelung-Arduino-Shelly-3EM/assets/142802395/d9130db4-b106-40ef-81aa-2876fb5cd8e9)
+![IMG_0636](https://github.com/duese1981/AC-DC-Laderegelung-Arduino-Shelly-3EM/assets/142802395/be203ee8-6d4d-4937-af72-0eb10eff9995)
